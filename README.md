@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bpm_doctor
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bpm-doctor
+ Real-time BPM detection from microphone input, built with Flutter.
+>>>>>>> c360abe81c1c2df4eb2d6439864df5c4bfa58429

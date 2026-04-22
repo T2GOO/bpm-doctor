@@ -6,7 +6,10 @@
 *.swp
 .buildlog/
 .history
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> c360abe81c1c2df4eb2d6439864df5c4bfa58429
 
 
 
